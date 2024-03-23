@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Mahdieh2001.github.io/mahdokht3dportfolio",
+  "homepage": "https://Mahdieh2001.github.io/3d_portfolio",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
